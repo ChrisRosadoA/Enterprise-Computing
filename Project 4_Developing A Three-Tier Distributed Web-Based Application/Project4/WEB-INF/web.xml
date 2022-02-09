@@ -1,0 +1,29 @@
+<web-app>
+
+  <!-- General description of your Web application -->
+  <display-name>
+     CNT 4714 - Project 4 - Fall 2021
+  </display-name>
+
+
+  <description>
+    Developing A Three-Tier Distributed Web-Based Application with the use of JSP and Servlet Technology
+    to run SQL commands from a browser.
+  </description>
+ 
+   
+  <servlet>
+  	<servlet-name>display</servlet-name>
+  	<description> Servlet that handles the requests.</description>
+  	<servlet-class>ChrisWebDisplay</servlet-class>
+  </servlet>
+
+
+  <servlet-mapping>
+    <servlet-name>display</servlet-name>
+    <url-pattern>/ChristianRosado</url-pattern>
+  </servlet-mapping>
+      
+    
+ </web-app>
+  
