@@ -1,0 +1,15 @@
+11111, "Moogle Coin", true, 8.99
+22222, "Sea Salt IceCream", true, 9.99
+33333, "Ultima Weapon", false, 99.99
+44444, "Fire Materia", true, 5.00
+55555, "Ice Materia", true, 5.00
+12345, "Water Materia", false, 3.99
+11223, "Kingdom Key Keyblade", true, 49.99
+11222, "Gummi Ship", true, 49.99
+12433, "OathKeeper Keyblade", false, 30.00
+12733, "Oblivion Keyblade", true, 30.00
+12344, "Magitek Armor", true, 60.00
+16733, "Shiny Crystal", true, 19.99
+12273, "Potion", false, 9.99
+12193, "Elixir", true, 14.99
+13533, "Ether", true, 9.99
